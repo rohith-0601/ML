@@ -1,6 +1,6 @@
 ````md
 # ML
-# **Heirarchy**
+# Heirarchy
 
 ARTIFICIAL INTELLIGENCE (AI)
 │
