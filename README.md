@@ -7,7 +7,7 @@ ARTIFICIAL INTELLIGENCE (AI)
 ├── Machine Learning (ML)
 │     │
 │     ├── Supervised Learning
-│     │       ├── **Classification** (what to learn)
+│     │       ├── Classification
 │     │       │       ├── Problem definition & use-cases
 │     │       │       ├── Algorithms:
 │     │       │       │       ├── Logistic Regression
@@ -38,7 +38,7 @@ ARTIFICIAL INTELLIGENCE (AI)
 │     │       │               ├── Medical diagnosis (binary/multi-class)
 │     │       │               └── Multi-class image classifier (Cats vs Dogs vs Others)
 │     │       │
-│     │       ├── **Regression** (what to learn)
+│     │       ├── Regression
 │     │       │       ├── Problem definition & use-cases
 │     │       │       ├── Algorithms:
 │     │       │       │       ├── Linear Regression / OLS
@@ -61,23 +61,23 @@ ARTIFICIAL INTELLIGENCE (AI)
 │     │       │               ├── Demand forecasting (short-term)
 │     │       │               └── Energy consumption prediction
 │     │       │
-│     │       ├── **Common supervised skills**
+│     │       ├── Common supervised skills
 │     │       │       ├── Bias-variance tradeoff
 │     │       │       ├── Regularization and hyperparameter tuning (GridSearchCV, RandomSearch, Bayesian)
 │     │       │       ├── Model interpretability (SHAP, LIME, feature importances)
 │     │       │       └── Pipeline building with scikit-learn
 │     │
 │     ├── Unsupervised Learning
-│     │       ├── **Clustering**
+│     │       ├── Clustering
 │     │       │       ├── Algorithms: K-Means, Hierarchical, DBSCAN, MeanShift, Gaussian Mixture Models
 │     │       │       ├── Preprocessing: scaling, PCA/TSNE for visualization
 │     │       │       ├── Evaluation (silhouette score, Davies-Bouldin)
 │     │       │       └── Projects: customer segmentation, anomaly detection
-│     │       ├── **Dimensionality Reduction**
+│     │       ├── Dimensionality Reduction
 │     │       │       ├── PCA (theory & kernel PCA)
 │     │       │       ├── t-SNE, UMAP (visualization)
 │     │       │       └── Use-cases: noise reduction, visualization, speeding up models
-│     │       └── **Association Rule Mining**
+│     │       └── Association Rule Mining
 │     │               ├── Apriori, FP-Growth
 │     │               └── Market basket analysis
 │     │
