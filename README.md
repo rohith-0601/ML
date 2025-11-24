@@ -1,8 +1,7 @@
-```md
+````md
 # ML
 # **Heirarchy**
 
-```txt
 ARTIFICIAL INTELLIGENCE (AI)
 │
 ├── Machine Learning (ML)
